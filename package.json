@@ -1,0 +1,24 @@
+{
+  "name": "tibia-imbuement-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelpancioni/tibia-imbuement-api.git"
+  },
+  "keywords": [
+    "tibia",
+    "imbuement",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelpancioni/tibia-imbuement-api/issues"
+  },
+  "homepage": "https://github.com/kelpancioni/tibia-imbuement-api#readme"
+}
